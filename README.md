@@ -1,5 +1,23 @@
-# 💫 About Me:
-I’m currently working on web security projects and testing, constantly exploring new ways to improve security strategies.<br><br>💡 I’m looking to collaborate on Red Team security, as my skills are more aligned with offensive security. However, I also value the importance of Blue Team defense, so I’m actively working on that as well. Additionally, I believe automation plays a crucial role in security, so I’m always looking for ways to integrate it into my work.<br><br>🚀 I’m currently learning CIS-CAT, Selenium, and Fortinet, along with other tools to enhance my expertise.<br><br>💬 Ask me about cybersecurity, pentesting, security audits, and how to perform web application testing.<br><br>⚡ Fun fact: I love diving deep into security tools and testing methodologies to break and secure systems at the same time!
+### About Me
+
+I am focused on web security research, actively working on security testing and exploring new techniques to improve defensive and offensive security strategies.
+
+My primary interest is in **Red Team operations**, where I focus on offensive security practices such as penetration testing, vulnerability assessment, and web application security testing. At the same time, I recognize the importance of **Blue Team capabilities**, and I continuously work on strengthening my knowledge in defensive security and security monitoring.
+
+I also have a strong interest in **security automation**, integrating tools and scripts to improve efficiency in testing, auditing, and vulnerability management.
+
+Currently, I am expanding my expertise by working with tools and technologies such as **CIS-CAT, Selenium, Fortinet solutions**, and other security frameworks.
+
+Areas of interest include:
+
+* Web application security testing
+* Penetration testing methodologies
+* Security auditing and compliance
+* Red Team operations
+* Security automation
+
+I’m always open to collaborating on **cybersecurity projects, Red Team initiatives, and security research**.
+
 
 
 ## 🌐 Socials:
