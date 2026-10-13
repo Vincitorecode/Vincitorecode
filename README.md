@@ -30,10 +30,6 @@ I’m always open to collaborating on **cybersecurity projects, Red Team initiat
 ![](https://nirzak-streak-stats.vercel.app/?user=Vincitorecode&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincitorecode&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vincitorecode&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Vincitorecode&icon=9&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
